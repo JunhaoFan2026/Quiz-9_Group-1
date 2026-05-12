@@ -78,7 +78,7 @@ This mechanic is essential for our vision of **temporary beauty**. As the artwor
 
 ![Perlin wind erosion sketch](./images/perlin-wind-erosion-sketch.png)
 
-*Figure 7. Sketch of Perlin-noise wind pushing sand particles across the canvas.*
+*Figure 7. Sketch of Perlin-noise wind pushing sand particles across the canvas,inspired by the Perlin Noise Flow Field experiment by Raging Nexus. Available at: [Perlin Noise - Flow Field](https://ragingnexus.com/creative-code-lab/experiments/perlin-noise-flow-field/)*
 
 ---
 
@@ -94,4 +94,5 @@ All mechanics share one canvas and one sand-particle system. User input creates 
 - The Coding Train. **Coding Challenge #180: Falling Sand**.
 - Max Bittker. **Sandspiel**.
 - teamLab. **Universe of Water Particles**.
+- Raging Nexus. **Perlin Noise Flow Field Experiment**.
 - p5.js Reference. **mousePressed(), mouseDragged(), millis(), getLevel(), noise()**.
