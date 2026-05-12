@@ -36,7 +36,7 @@ Our team has chosen **Option 2: Create an original piece**.
 | [Name 1] | User input | `user-sand-input.js` |
 | [Name 2] | Audio | `audio-colour-system.js` |
 | [Name 3] | Time-based | `time-phase-controller.js` |
-| [Name 4] | Perlin noise and randomness | `perlin-wind-erosion.js` |
+| Runcheng Tian | Perlin noise and randomness | `perlin-wind-erosion.js` |
 
 ---
 
@@ -72,9 +72,11 @@ The time-based mechanic controls the overall structure of the artwork. The piece
 
 ### Mechanic 4: Perlin Noise and Randomness — Wind Erosion
 
-The Perlin noise and randomness mechanic creates natural-looking movement after the sand has accumulated. Instead of making every particle fall in a straight, mechanical way, this system introduces wind, drift, and erosion. Perlin noise can create smooth directional forces, so the sand appears to move like it is being pushed by an invisible current. Randomness can add small unpredictable changes, such as individual grains sliding left or right, clumping, or breaking away from the main pile. This mechanic is important because our project is about sand as a fragile material. The noise field makes the image feel organic and unstable. It also helps the final sand painting dissolve gradually, rather than simply disappearing all at once.
+My mechanic focuses on using **Perlin noise and randomness** to create a natural "wind erosion" effect for the sandscape. Unlike standard random values that can appear harsh or disjointed, Perlin noise allows for smooth and continuous variations where each value is related to its neighbors. This makes it the perfect tool for simulating how sand might drift or swirl across the canvas in a realistic way. To implement this, I plan to use a noise function that samples values over time to slightly offset the position of the sand particles. By incrementing this sampling position every frame, the sand will appear to be pushed by a smooth, invisible current rather than just falling in a straight, mechanical line.
 
-![Perlin wind erosion sketch](./assets/perlin-wind-erosion-sketch.png)
+This mechanic is essential for our vision of **temporary beauty**. As the artwork settles, the influence of the noise will create an unpredictable but graceful movement, causing the sand to gradually "erode" and fade away. This reflects the organic decay seen in a real-world sand mandala, where even the most detailed creation is eventually reclaimed by nature. It ensures the final piece feels alive and constantly changing, reinforcing the idea that our digital sandscape is a fragile and impermanent experience.
+
+![Perlin wind erosion sketch](./images/perlin-wind-erosion-sketch.png)
 
 *Figure 7. Sketch of Perlin-noise wind pushing sand particles across the canvas.*
 
