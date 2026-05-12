@@ -19,11 +19,11 @@ Our team has chosen **Option 2: Create an original piece**.
 
 *Figure 1. Tibetan sand mandala reference. Source: Minneapolis Institute of Art, [The Tibetan Sand Mandala: A Short History](https://new.artsmia.org/hub/programming-events/tibetan-sand-mandala-history).*
 
-![Falling sand reference](./assets/falling-sand-reference.png)
+![Falling sand reference](./images/2.png)
 
 *Figure 2. Falling sand simulation reference. Source: The Coding Train, [**Coding Challenge #180: Falling Sand**](https://thecodingtrain.com/challenges/180-falling-sand/). Example code: [p5.js Web Editor](https://editor.p5js.org/codingtrain/sketches/AoH40T6fV).*
 
-![Sandspiel reference](./assets/sandspiel-reference.png)
+![Sandspiel reference](./images/3.png)
 
 *Figure 3. Interactive falling-sand sandbox reference. Source: Max Bittker, [**Sandspiel**](https://sandspiel.club/). Additional project page: [Sandspiel on itch.io](https://maxbittker.itch.io/sandspiel).*
 
