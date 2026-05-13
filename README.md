@@ -1,4 +1,4 @@
-# Quiz-9_Group-1
+# Quiz9_Final Project Team - 1
 
 ## Project Title
 **Dissolving Sandscape** *(tentative)*
@@ -34,8 +34,8 @@ Our team has chosen **Option 2: Create an original piece**.
 | Team Member | Mechanic |
 |---|---|
 | Jialu Li | User input | 
-| [Name 2] | Audio |
-| [Name 3] | Time-based | 
+| Junhao Fan | Audio |
+| Jiajun Zhao | Time-based | 
 | Runcheng Tian | Perlin noise and randomness | 
 
 ---
@@ -63,15 +63,10 @@ The audio mechanic uses sound level or frequency data to control the sand’s vi
 
 ### Mechanic 3: Time-Based — Building, Settling, and Dissolving Phases
 
-The time-based mechanic controls the overall structure of the artwork. The piece will move through several stages: a building phase, a settling phase, a dissolving phase, and a final collapse or reset phase. During the building phase, the user can actively pour sand. After a certain time, the system encourages the sand to settle, making the image feel temporarily complete. Then the dissolving phase begins, where the sand slowly loses stability and starts to fade, drift, or fall away. This mechanic helps the project avoid feeling like an endless sandbox. It gives the experience a beginning, middle, and ending. Conceptually, it connects to the idea of impermanence because even a carefully built image must eventually change and disappear.
+The time-based mechanic controls the life cycle of the artwork. It is inspired by Tibetan sand mandalas, where a carefully created sand image is eventually dissolved, and by teamLab’s time-based digital installations, where flowers grow, bloom, scatter, and die over time. In our project, time is not just a timer; it becomes a visual force that changes the state of the sand painting. During the building phase, users can freely pour sand with the mouse. After a set duration, the sand enters a settling phase and becomes slower and more stable. Then the dissolving phase begins, where the sand starts to fade, drift, and lose its structure. In the final collapse or reset phase, users can click to break the image apart. This connects to our project vision because the artwork is designed to be temporary: it is created, briefly completed, and then inevitably disappears.
 
-![Time-based reference 1](./images/4.png)
-
-*Figure 6. Time-based visual reference.*
-
-![Time-based reference 2](./images/5.png)
-
-*Figure 7. Time-based visual reference.*
+![teamLab time-based digital installation reference](./images/4.png)
+*Figure 6. Time-based digital installation reference. Source: teamLab, [**Flowers and People − A Whole Year per Hour**](https://www.teamlab.art/w/flowersandpeople-hour/), where flowers grow, bloom, scatter, and wither over time.*
 
 ---
 
