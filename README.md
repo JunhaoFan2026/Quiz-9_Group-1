@@ -33,7 +33,7 @@ Our team has chosen **Option 2: Create an original piece**.
 
 | Team Member | Mechanic |
 |---|---|
-| [Jialu Li] | User input | 
+| Jialu Li | User input | 
 | [Name 2] | Audio |
 | [Name 3] | Time-based | 
 | Runcheng Tian | Perlin noise and randomness | 
