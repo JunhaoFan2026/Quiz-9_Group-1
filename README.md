@@ -44,7 +44,6 @@ Our team has chosen **Option 2: Create an original piece**.
 
 My mechanism is responsible for User Input, allowing the audience to directly shape the sand painting through the mouse and keyboard. Users can drag the mouse to release colored sand onto the canvas, creating lines, piles, or hills. Mouse movement affects where the sand appears, making the interaction feel more like pouring sand by hand. Users can also click or drag to break, erase, or disturb existing sand structures. The keyboard switches between modes, such as Pour, Erase, and Disturb. This connects to the project’s theme of temporary beauty, because the audience becomes both creator and destroyer, building a sandscape while also watching it change, collapse, and disappear.
 
-
 ![User input diagram](./images/user-input-interaction-flow.png)
 
 *Figure 4. Diagram showing how keyboard and mouse inputs control the sand interaction modes and canvas results.*
@@ -53,7 +52,7 @@ My mechanism is responsible for User Input, allowing the audience to directly sh
 
 ### Mechanic 2: Audio — Colour and Energy Response
 
-The audio mechanic uses sound level or frequency data to control the sand’s visual energy. Instead of using sound as background music only, the audio becomes part of the material behaviour. When the volume is low, the sand can appear darker, softer, and more settled. When the volume rises, the sand can become brighter, more saturated, or more active. If we use frequency analysis, low frequencies could produce warmer colours while higher frequencies could produce sharper or lighter colours. The user does not need to sing or speak perfectly; even environmental sound or music can affect the piece. This supports the project vision by making the sand feel sensitive and alive, as if the image is reacting to the atmosphere around it.
+For the audio mechanic, my idea is that audio begins to play while the sand particles are falling. As time passes, the sand changes its colour and movement trajectory according to the amplitude of the sound. When the volume is low, the sand appears darker, softer, and more stable. As the volume increases, the sand becomes brighter, more saturated, and more active in its movement. If frequency analysis is used, lower frequencies could generate warmer colours, while higher frequencies could create sharper or brighter colours. The addition of this audio mechanic makes the falling sand feel more alive and dynamic, increasing interactivity while also creating visually appealing effects.
 
 ![Audio colour reference](./assets/audio-colour-reference.png)
 
