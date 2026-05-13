@@ -102,5 +102,8 @@ All mechanics will share one canvas and one sand-particle system. User input cre
 - teamLab. [*Universe of Water Particles*](https://www.teamlab.art/w/uowp/).  
   Visual inspiration for particle movement, flow, and immersive digital environments.
 
+- teamLab. [*Flowers and People – A Whole Year per Hour*](https://www.teamlab.art/w/flowersandpeople-hour/).  
+  Inspiration for the time-based mechanic, especially the idea of using time to move a digital artwork through growth, completion, scattering, and decay.  
+
 - Raging Nexus. [*Perlin Noise - Flow Field*](https://ragingnexus.com/creative-code-lab/experiments/perlin-noise-flow-field/).  
   Coding reference for Perlin-noise-driven movement and wind-like particle flow.
