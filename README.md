@@ -31,22 +31,23 @@ Our team has chosen **Option 2: Create an original piece**.
 
 ## Part 2: Mechanics
 
-| Team Member | Mechanic | Script File |
-|---|---|---|
-| [Name 1] | User input | `user-sand-input.js` |
-| [Name 2] | Audio | `audio-colour-system.js` |
-| [Name 3] | Time-based | `time-phase-controller.js` |
-| Runcheng Tian | Perlin noise and randomness | `perlin-wind-erosion.js` |
+| Team Member | Mechanic |
+|---|---|
+| [Jialu Li] | User input | 
+| [Name 2] | Audio |
+| [Name 3] | Time-based | 
+| Runcheng Tian | Perlin noise and randomness | 
 
 ---
 
 ### Mechanic 1: User Input — Sand Pouring and Destruction
 
-The user input mechanic allows the audience to directly shape the sand image. When the user drags the mouse across the canvas, coloured sand particles are released from the cursor and fall under simple gravity rules. This makes the mouse feel like a digital funnel or hand tool, similar to how physical sand can be poured onto a surface. The user can build piles, draw lines, or create uneven landscapes. Later in the piece, clicking on an area will disturb the settled sand and break the image apart, causing particles to collapse or scatter. This connects to our project vision because the audience is responsible for both creation and destruction. The work becomes a temporary sand painting rather than a fixed image.
+My mechanism is responsible for User Input, allowing the audience to directly shape the sand painting through the mouse and keyboard. Users can drag the mouse to release colored sand onto the canvas, creating lines, piles, or hills. Mouse movement affects where the sand appears, making the interaction feel more like pouring sand by hand. Users can also click or drag to break, erase, or disturb existing sand structures. The keyboard switches between modes, such as Pour, Erase, and Disturb. This connects to the project’s theme of temporary beauty, because the audience becomes both creator and destroyer, building a sandscape while also watching it change, collapse, and disappear.
 
-![User input sketch](./assets/user-input-sketch.png)
 
-*Figure 4. Sketch of mouse-controlled sand pouring and click-based destruction.*
+![User input diagram](./images/user-input-interaction-flow.png)
+
+*Figure 4. Diagram showing how keyboard and mouse inputs control the sand interaction modes and canvas results.*
 
 ---
 
@@ -84,15 +85,23 @@ This mechanic is essential for our vision of **temporary beauty**. As the artwor
 
 ## Part 3: Putting It Together
 
-All mechanics share one canvas and one sand-particle system. User input creates the sand, audio changes its colour and energy, time controls the artwork’s phases, and Perlin noise gradually erodes the image. The project is held together by the concept of temporary sand painting: every interaction adds material, but every material form is unstable. Visually, the work will use a dark background, bright coloured sand, and soft fading trails so the canvas feels like a glowing digital sand table. The final piece should feel interactive, fragile, and constantly changing.
+All mechanics will share one canvas and one sand-particle system. User input creates and disturb the sand, audio changes its colour and energy, time controls the artwork’s phases, and Perlin noise gradually erodes the image. The project is held together by the concept of temporary sand painting: every interaction adds material, but every material form is unstable. Visually, the work will use a dark background, bright coloured sand, and soft fading trails, making the canvas feel like a glowing digital sand table. The final piece should feel interactive, fragile, and constantly changing.
 
 ---
 
-## References and Inspiration
+## References and Inspirations
 
-- Minneapolis Institute of Art. **The Tibetan Sand Mandala: A Short History**.
-- The Coding Train. **Coding Challenge #180: Falling Sand**.
-- Max Bittker. **Sandspiel**.
-- teamLab. **Universe of Water Particles**.
-- Raging Nexus. **Perlin Noise Flow Field Experiment**.
-- p5.js Reference. **mousePressed(), mouseDragged(), millis(), getLevel(), noise()**.
+- Minneapolis Institute of Art. [*The Tibetan Sand Mandala: A Short History*](https://new.artsmia.org/hub/programming-events/tibetan-sand-mandala-history).  
+  Inspiration for the theme of impermanence and temporary sand-based artwork.
+
+- The Coding Train. [*Coding Challenge 180: Falling Sand*](https://www.youtube.com/results?search_query=The+Coding+Train+Coding+Challenge+180+Falling+Sand).  
+  Coding reference for simulating falling sand particles in p5.js.
+
+- Max Bittker. [*Sandspiel*](https://maxbittker.itch.io/sandspiel).  
+  Inspiration for interactive falling-sand gameplay and pixel-based material simulation.
+
+- teamLab. [*Universe of Water Particles*](https://www.teamlab.art/w/uowp/).  
+  Visual inspiration for particle movement, flow, and immersive digital environments.
+
+- Raging Nexus. [*Perlin Noise - Flow Field*](https://ragingnexus.com/creative-code-lab/experiments/perlin-noise-flow-field/).  
+  Coding reference for Perlin-noise-driven movement and wind-like particle flow.
