@@ -65,9 +65,13 @@ The audio mechanic uses sound level or frequency data to control the sand’s vi
 
 The time-based mechanic controls the overall structure of the artwork. The piece will move through several stages: a building phase, a settling phase, a dissolving phase, and a final collapse or reset phase. During the building phase, the user can actively pour sand. After a certain time, the system encourages the sand to settle, making the image feel temporarily complete. Then the dissolving phase begins, where the sand slowly loses stability and starts to fade, drift, or fall away. This mechanic helps the project avoid feeling like an endless sandbox. It gives the experience a beginning, middle, and ending. Conceptually, it connects to the idea of impermanence because even a carefully built image must eventually change and disappear.
 
-![Time phase diagram](./assets/time-phase-diagram.png)
+![Time-based reference 1](./images/4.png)
 
-*Figure 6. Diagram showing the planned build, settle, dissolve, and collapse phases.*
+*Figure 6. Time-based visual reference.*
+
+![Time-based reference 2](./images/5.png)
+
+*Figure 7. Time-based visual reference.*
 
 ---
 
