@@ -54,9 +54,9 @@ My mechanism is responsible for User Input, allowing the audience to directly sh
 
 For the audio mechanic, my idea is that audio begins to play while the sand particles are falling. As time passes, the sand changes its colour and movement trajectory according to the amplitude of the sound. When the volume is low, the sand appears darker, softer, and more stable. As the volume increases, the sand becomes brighter, more saturated, and more active in its movement. If frequency analysis is used, lower frequencies could generate warmer colours, while higher frequencies could create sharper or brighter colours. The addition of this audio mechanic makes the falling sand feel more alive and dynamic, increasing interactivity while also creating visually appealing effects.
 
-![Audio colour reference](./assets/audio-colour-reference.png)
-
-*Figure 5. Diagram of audio amplitude controlling sand colour and brightness.*
+![Audio colour reference](./images/audio-colour-reference.png)
+*Figure 5. Diagram of audio amplitude controlling height.*
+Reference teaching video（https://thecodingtrain.com/tracks/sound/sound/11-sound-visualization-frequency-analysis）
 
 ---
 
