@@ -83,7 +83,7 @@ This mechanic is essential for our vision of **temporary beauty**. As the artwor
 
 ## Part 3: Putting It Together
 
-All mechanics will share one canvas and one sand-particle system. User input creates and disturb the sand, audio changes its colour and energy, time controls the artwork’s phases, and Perlin noise gradually erodes the image. The project is held together by the concept of temporary sand painting: every interaction adds material, but every material form is unstable. Visually, the work will use a dark background, bright coloured sand, and soft fading trails, making the canvas feel like a glowing digital sand table. The final piece should feel interactive, fragile, and constantly changing.
+All mechanics will share one canvas and one sand-particle system. User input creates and disturb the sand, audio changes its colour and movement, time controls the artwork’s phases, and Perlin noise gradually erodes the image. The project is held together by the concept of temporary sand painting: every interaction adds material, but every material form is unstable. Visually, the work will use a dark background, bright coloured sand, and soft fading trails, making the canvas feel like a glowing digital sand table. The final piece should feel interactive, fragile, and constantly changing.
 
 ---
 
