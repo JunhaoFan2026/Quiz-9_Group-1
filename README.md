@@ -13,7 +13,7 @@ Our team has chosen **Option 2: Create an original piece**.
 
 ### Team Vision
 
-**Dissolving Sandscape** is an interactive visual work about temporary beauty, digital material, and disappearance. The piece begins as a blank dark canvas where users can pour and shape falling sand. Over time, the sand slowly forms a fragile landscape or abstract sand painting. However, the work is not meant to stay fixed. Audio changes the colour and energy of the sand, time moves the piece through stages of building and dissolving, and Perlin noise creates wind-like erosion. Our concept is inspired by Tibetan sand mandalas, where creation and destruction are both part of the artwork, and by falling-sand simulations such as The Coding Train’s **Falling Sand** and Max Bittker’s **Sandspiel**. We want the final piece to feel alive, unstable, and temporary: a sand image that the audience helps create, then watches disappear.
+**Dissolving Sandscape** is an interactive visual work about temporary beauty, digital material, and disappearance. The piece begins as a blank dark canvas where users can pour and shape falling sand. Over time, the sand slowly forms a fragile landscape or abstract sand painting. However, the work is not meant to stay fixed. Audio changes the colour and energy of the sand, time moves the piece through stages of building and dissolving, and Perlin noise creates wind-like erosion. Our concept is inspired by **Tibetan sand mandalas**, where creation and destruction are both part of the artwork, and by falling-sand simulations such as The Coding Train’s **Falling Sand** and Max Bittker’s **Sandspiel**. We want the final piece to feel alive, unstable, and temporary: a sand image that the audience helps create, then watches disappear.
 
 ![Tibetan sand mandala reference](./images/1.png)
 
@@ -94,6 +94,9 @@ All mechanics will share one canvas and one sand-particle system. User input cre
 
 - The Coding Train. [*Coding Challenge 180: Falling Sand*](https://www.youtube.com/results?search_query=The+Coding+Train+Coding+Challenge+180+Falling+Sand).  
   Coding reference for simulating falling sand particles in p5.js.
+
+- The Coding Train. [*Sound Visualization & Frequency Analysis.*](https://thecodingtrain.com/tracks/sound/sound/11-sound-visualization-frequency-analysis).  
+  Coding reference for audio-reactive visuals and frequency-based particle behaviour.
 
 - Max Bittker. [*Sandspiel*](https://maxbittker.itch.io/sandspiel).  
   Inspiration for interactive falling-sand gameplay and pixel-based material simulation.
